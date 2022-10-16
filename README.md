@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/sideedgetech/Advice-Generator)
-- Live Site URL: [Live Site URL](https://advising.app.vercel.app)
+- Live Site URL: [Live Site URL](https://advising.vercel.app)
 
 ## My process
 
