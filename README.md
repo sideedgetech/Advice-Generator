@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the Advice generator app challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/haikelz/advice-generator-app)
-- Live Site URL: [Live Site URL](https://advice-generator-app.vercel.app)
+- Solution URL: [Solution URL](https://github.com/sideedgetech/Advice-Generator)
+- Live Site URL: [Live Site URL](https://advising.app.vercel.app)
 
 ## My process
 
@@ -49,5 +49,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [haikelz](https://www.frontendmentor.io/profile/haikelz)
-- Facebook - [Haikel Why](https://www.facebook.com/kelgfx)
+- [Side Edge] (github.com/sideedgetech)
