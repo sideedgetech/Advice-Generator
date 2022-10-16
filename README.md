@@ -43,10 +43,7 @@ Users should be able to:
 - [Tailwindcss](https://tailwindcss.com/) - CSS Framework
 - [Jotai](https://jotai.org/) - State management
 
-### Useful resources
-
-- [Tailwind Docs](https://tailwindcss.com/docs)
 
 ## Author
 
-- [Side Edge] (github.com/sideedgetech)
+- [Side Edge](github.com/sideedgetech)
